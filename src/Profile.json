@@ -1,0 +1,91 @@
+{
+"contactInfo": {
+    "fullName": "Tagupa James",
+    "email": "your.email@example.com",
+    "phone": "123-456-7890",
+    "location": "Cagayan de Oro, Northern Mindanao, Philippines",
+    "portfolioUrl": "https://riasgremoryhsdxd.github.io/WebsitePortfolio/"
+},
+"professionalSummary": "Innovative web developer with a strong background in web development and design. Passionate about creating visually appealing and user-friendly websites. Eager to contribute technical expertise and creative skills to drive digital excellence.",
+"skills": {
+    "technical": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ReactJS",
+    "Node.js"
+    ],
+    "soft": [
+    "Communication",
+    "Teamwork",
+    "Problem Solving",
+    "Creativity"
+    ]
+},
+"projects": [
+    {
+    "name": "Portfolio Website",
+    "description": "A personal portfolio showcasing web development projects and creative design skills.",
+    "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ReactJS"
+    ]
+    },
+    {
+    "name": "Project Two",
+    "description": "A brief description of your second project.",
+    "technologies": [
+        "Technology1",
+        "Technology2"
+    ]
+    }
+],
+"workExperience": [
+    {
+    "jobTitle": "Web Developer Intern",
+    "company": "Company Name",
+    "duration": "Month Year - Month Year",
+    "responsibilities": [
+        "Developed responsive web pages using HTML, CSS, and JavaScript.",
+        "Collaborated with design teams to create user-friendly layouts.",
+        "Implemented bug fixes and performance improvements."
+    ]
+    },
+    {
+    "jobTitle": "Freelance Web Developer",
+    "company": "Self-Employed",
+    "duration": "Month Year - Present",
+    "responsibilities": [
+        "Built and maintained multiple client websites.",
+        "Managed project timelines and delivered solutions on time."
+    ]
+    }
+],
+"education": [
+    {
+    "degree": "Bachelor of Science in Computer Science",
+    "institution": "University Name",
+    "duration": "Year - Year",
+    "details": "Relevant coursework: Web Development, UI/UX Design, Database Systems, etc."
+    }
+],
+"additionalSections": {
+    "certifications": [
+    "Certification 1",
+    "Certification 2"
+    ],
+    "awards": [
+    "Award 1"
+    ],
+    "volunteerWork": [
+    {
+        "role": "Volunteer Developer",
+        "organization": "Non-profit Organization",
+        "description": "Developed and maintained the organization's website."
+    }
+    ]
+}
+}
+  
